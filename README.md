@@ -1,2 +1,3 @@
-# hangman
-A hangman game
+# Hangman
+
+A hangman game created using C++
